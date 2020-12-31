@@ -2,7 +2,7 @@
 Author: Tengku Hana Shafikah
 
 ## Summary
-In the fall of 2020, I took part in the Embedded Fitness Challenge, which served as my final term project for the Embedded Systems course at NYU Tandon. The purpose of the project is to build a fitness tracker using the Adafruit Circuit Playground and program it using Arduino IDE.
+In the fall of 2020, I took part in the Embedded Fitness Challenge, which served as my final term project for the Embedded Systems course at NYU Tandon. The purpose of the project is to build a fitness tracker using the Adafruit Circuit Playground and program it using C++ in the Arduino IDE.
 
 ## Objective
 The COVID pandemic has forced almost all gyms to close until further notice. Because of this, many of us have become sedentary and are suffering from lack of sufficient exercise causing fatigue and obesity creating the need for new exercising options. The objective of this semester’s embedded challenge is to use the data collected from a single accelerometer (on your microcontroller board) to record body movements to identify one of 4 exercises:
